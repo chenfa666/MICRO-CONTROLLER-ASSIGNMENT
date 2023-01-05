@@ -1,0 +1,6 @@
+FSM_UART.c:25:5:isEqualToGo	0	static
+FSM_UART.c:31:5:isEqualToNormal	0	static
+FSM_UART.c:37:5:isEqualToRed	0	static
+FSM_UART.c:43:5:isEqualToYellow	0	static
+FSM_UART.c:49:5:isEqualToStop	0	static
+FSM_UART.c:55:6:fsm_communication	16	static

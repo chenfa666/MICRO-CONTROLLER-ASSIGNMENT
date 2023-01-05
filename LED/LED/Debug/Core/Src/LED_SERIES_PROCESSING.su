@@ -1,0 +1,13 @@
+LED_SERIES_PROCESSING.c:31:6:resetCounter	4	static
+LED_SERIES_PROCESSING.c:53:6:Latch_Enable	8	static
+LED_SERIES_PROCESSING.c:58:6:Latch_Disable	16	static
+LED_SERIES_PROCESSING.c:66:6:Output_Enable	8	static
+LED_SERIES_PROCESSING.c:71:6:Output_Disable	8	static
+LED_SERIES_PROCESSING.c:76:6:CLock_ON	16	static
+LED_SERIES_PROCESSING.c:84:6:CLock_OFF	16	static
+LED_SERIES_PROCESSING.c:92:6:Data_Out	16	static
+LED_SERIES_PROCESSING.c:97:6:turnOffAllLED	16	static
+LED_SERIES_PROCESSING.c:110:6:LED_Display	24	static
+LED_SERIES_PROCESSING.c:124:6:interruptServiceForDisplayLEDsSeries	8	static
+LED_SERIES_PROCESSING.c:186:6:interruptServiceForDisplayGREENLEDsSeries	8	static
+LED_SERIES_PROCESSING.c:204:6:interruptServiceForDisplayYELLOWLEDsSeries	8	static
